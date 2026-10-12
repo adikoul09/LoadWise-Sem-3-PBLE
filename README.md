@@ -215,5 +215,4 @@ If a file has a mistake, the program rejects it and keeps your current data safe
 | File | Description |
 |------|-------------|
 | `fractional_knapsack_v2.c` | The full LoadWise program with all extra features |
-| `fractional_knapsack.c` | The basic version with only the required PBLE features |
 | `README.md` | This file |
